@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rodrigo</h1>
-<h3 align="center">A humble civil engineer in computingfrom Chile</h3>
+<h3 align="center">A humble civil computer engineer from Chile</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rmorapalta&label=Profile%20views&color=0e75b6&style=flat" alt="rmorapalta" /> </p>
 
