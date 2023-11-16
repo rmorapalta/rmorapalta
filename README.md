@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Rodrigo</h1>
+<h1 align="center">Hola 👋, Soy Rodrigo / Hi 👋, I'm Rodrigo</h1>
 <h3 align="center">A humble civil computer engineer from Chile</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rmorapalta&label=Profile%20views&color=0e75b6&style=flat" alt="rmorapalta" /> </p>
 
-- 🌱 I’m currently learning **Django, Tailwind and web develop in general.**
+- 🌱 Actualmente estoy aprendiendo **Django, Tailwind y desarrollo web en general.** / 🌱 I’m currently learning **Django, Tailwind and web develop in general.**
 
-- 📫 How to reach me **rodrigo.mora.palta@hotmail.com**
+- 📫 Contactame en **rodrigo.mora.palta@hotmail.com** / 📫 Contact me at **rodrigo.mora.palta@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
